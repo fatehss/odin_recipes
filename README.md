@@ -1,0 +1,1 @@
+This project will create a website with links to different recipes for foods. The main purpose of this project is to put my html knowledge to the test. It is also an opportunity for me to get more comfortable with using git.
